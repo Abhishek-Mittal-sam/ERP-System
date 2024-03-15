@@ -72,7 +72,7 @@ Contributions to this project are highly encouraged! If you encounter any issues
 
 ## Screenshots of the Web Application
 1. Dashboard
-![Dashboard](/public/assets/images/dashboard.png)
+![Dashboard](public/assets/images/dashboard.png)
 2. Product Page
 ![Product Page](/public/assets/images/product.png)
 3. Orders Page
