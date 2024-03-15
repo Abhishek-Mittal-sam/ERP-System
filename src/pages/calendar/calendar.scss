@@ -1,0 +1,35 @@
+.caldiv{
+    height: 750px;
+    padding: 20px;
+}
+
+.calendars{
+    display: flex;
+    width:100% ;
+    background-color: whitesmoke;
+    color: #616161;
+
+    .calendarsContainer{
+        flex: 6;
+
+    }
+    .listContainer{
+        -webkit-box-shadow: 2px 4px 10px 1px rgba(0,0,0,0.47);
+        box-shadow: 2px 4px 10px 1px rgba(201,201,201,0.47);
+        padding: 20px;
+        margin: 20px;
+        height: 550px;
+        // margin-left: 500px !important;
+        // margin-top: 100px !important;
+        // margin-right: 50px !important;
+    
+        .listTitle{
+            font-size: 20px;
+            font-weight: 500;
+            color: #616161;
+    
+            margin-bottom: 15px;
+            
+        }
+    }
+}
