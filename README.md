@@ -56,7 +56,7 @@ Additionally, the application offers a Dark mode toggle for improved visibility 
 Each section is designed to provide specific functionality tailored to your inventory management needs. Simply click on the corresponding section to access its features.
 
 ## Access the Live Version
-You can access the online hosted version of the application [here](https://erpsystem-entnt.netlify.app/calendar).
+You can access the online hosted version of the application [here](https://erpsystem-entnt.netlify.app/).
 
 ### Contributing
 Contributions to this project are highly encouraged! If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or submit a pull request.
