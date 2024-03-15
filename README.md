@@ -73,9 +73,22 @@ Contributions to this project are highly encouraged! If you encounter any issues
 ## Screenshots of the Web Application
 1. Dashboard
 ![Dashboard](public/assets/dashboard.png)
+
 2. Product Page
-![Product Page](/public/assets/images/product.png)
-3. Orders Page
-![Orders Page](/public/images/orders.png)
-4. Calendar Page
+![Product Page](/public/assets/product.png)
+
+3. View Product Page
+![View Product Page](/public/assets/ViewProducts.png)
+
+4. Add New Product Page
+![View Product Page](/public/assets/addnewproduct.png)
+
+5. Orders Page
+![Orders Page](/public/assets/orders.png)
+
+6. Add new Order Page
+![Orders Page](/public/assets/orders.png)
+
+
+8. Calendar Page
 ![Calendar Page](/public/assets/images/calendar.png)
