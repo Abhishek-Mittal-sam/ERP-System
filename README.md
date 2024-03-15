@@ -68,6 +68,14 @@ Contributions to this project are highly encouraged! If you encounter any issues
 - HTML/CSS
 - Optional: React Calendar library for Orders Calendar View
 
+## Technology Stack
+
+- [React](https://reactjs.org/docs/getting-started.html)
+- [React Router](https://reactrouter.com/web/guides/quick-start)
+- [HTML/CSS](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [React Calendar library for Orders Calendar View](https://github.com/namespace-ee/react-calendar)
+
+
 ## Screenshots of the Web Application
 1. Dashboard
 
