@@ -36,28 +36,25 @@ http://localhost:3000
 ```
 
 ## Using the Application:
-Once the application is running, you can navigate through its various features using the following steps:
 
-### Dashboard:
-- Displays key metrics or features summary.
-- Provides quick navigation links to Products and Orders management pages.
+Upon opening the application, you will find the following sections on the dashboard:
 
-### Products Management:
-- Lists products with details (name, category, price, stock quantity) using mock data.
-- Functionalities to add, edit, and delete products.
+- Home
+This section offers an overview of the inventory management system and provides any announcements or important information.
 
-### Orders Management:
-- Shows a list of orders with details (order ID, customer name, order date, status) using mock data.
-- View order details, add new orders, and delete orders.
+- Products
+Navigate to the "Products" section to view and manage your inventory. Scroll through the list of existing items to see what's in stock. You can add, view, or delete items as needed.
 
-### Orders Calendar View:
-- Implements a calendar view displaying orders based on expected delivery dates.
-- Ability to click on a date to view orders due for delivery on that day.
+- Order
+In the "Order" section, you can view and manage orders placed for inventory items. Create new orders, view details of existing orders, and delete orders as necessary.
 
-### Additional Features:
-- Dark mode toggle available across the application.
-- Graphs displaying progress bars for various metrics in the Dashboard.
-- Fully functional calendar with event details in Orders Calendar View.
+- Calendar
+The calendar feature allows you to click on a date to add events and view orders due for delivery on that day.
+
+Additionally, the application offers a Dark mode toggle for improved visibility in low-light environments. Graphs and progress bars are also utilized in the dashboard to provide visual representations of important metrics.
+
+Each section is designed to provide specific functionality tailored to your inventory management needs. Simply click on the corresponding section to access its features.
+
 
 ### Contributing
 Contributions to this project are highly encouraged! If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or submit a pull request.
