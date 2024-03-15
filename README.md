@@ -39,16 +39,16 @@ http://localhost:3000
 
 Upon opening the application, you will find the following sections on the dashboard:
 
-- Home
+- Home :
 This section offers an overview of the inventory management system and provides any announcements or important information.
 
-- Products
+- Products :
 Navigate to the "Products" section to view and manage your inventory. Scroll through the list of existing items to see what's in stock. You can add, view, or delete items as needed.
 
-- Order
+- Order :
 In the "Order" section, you can view and manage orders placed for inventory items. Create new orders, view details of existing orders, and delete orders as necessary.
 
-- Calendar
+- Calendar :
 The calendar feature allows you to click on a date to add events and view orders due for delivery on that day.
 
 Additionally, the application offers a Dark mode toggle for improved visibility in low-light environments. Graphs and progress bars are also utilized in the dashboard to provide visual representations of important metrics.
@@ -68,24 +68,31 @@ Contributions to this project are highly encouraged! If you encounter any issues
 
 ## Screenshots of the Web Application
 1. Dashboard
+
 ![Dashboard](public/assets/dashboard.png)
 
 2. Product Page
+   
 ![Product Page](public/assets/product.png)
 
 3. View Product Page
+   
 ![View Product Page](public/assets/ViewProducts.png)
 
 4. Add New Product Page
+   
 ![Add New Product Page](public/assets/addnewproduct.png)
 
 5. Orders Page
+    
 ![Orders Page](public/assets/orders.png)
 
 6. Calendar Page
+    
 ![Calendar Page](public/assets/calendar.png)
 
 7. Dark Mode Dashboard
+    
 ![Dark Mode](public/assets/DarkMode.png)
 
 
